@@ -50,3 +50,4 @@ The three YouTube "Full Courses" he references:
 
 - Master list of all concept pages: [index.md](index.md)
 - All raw sources: [sources/](sources/README.md)
+- **Course site** (mdbook, live): <https://iamflipse.github.io/jay-yang-course/> — the trilogy distilled into a navigable 7-chapter course + workbook (repo: `iamflipse/jay-yang-course`)

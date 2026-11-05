@@ -7,6 +7,9 @@
 - [Concepts](#concepts)
 - [Sources](sources/)
 
+## Related
+- Interactive course site (mdbook): <https://iamflipse.github.io/jay-yang-course/> — the same material as a navigable course with a workbook
+
 ## Collected sources
 - [X post — "I've completed the trilogy" (Oct 30 2026)](sources/x-post-2116233673766732135.md)
 - [Course 1 — How To Write Words That Make People Buy](sources/course-1-writing-words-transcript.md) (43.5 min, YouTube `OP_eMk_RCWg`)
