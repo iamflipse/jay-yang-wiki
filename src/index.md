@@ -5,9 +5,10 @@
 ## Sections
 - [Biography](about.md)
 - [Concepts](#concepts)
-- [Sources](sources/)
+- [Sources](sources/README.md)
 
 ## Related
+- **Live wiki site:** <https://iamflipse.github.io/jay-yang-wiki/>
 - Interactive course site (mdbook): <https://iamflipse.github.io/jay-yang-course/> — the same material as a navigable course with a workbook
 
 ## Collected sources
