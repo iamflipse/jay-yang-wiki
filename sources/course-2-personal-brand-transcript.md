@@ -1,0 +1,702 @@
+# Transcript: course_1BOW7019N_4.webm
+
+- Source: /tmp/jay-courses/course_1BOW7019N_4.webm
+- Language: en
+- Duration: 00:22:54.38
+- Model: small (cpu)
+
+[00:00:00.00] If you want to just get views, this video is not for you.
+[00:00:02.40] Let me explain.
+[00:00:03.20] I've built a brand of over 500,000 people,
+[00:00:05.76] and that's allowed me to work with my heroes,
+[00:00:08.24] build demand before I launch anything,
+[00:00:10.08] get access to rooms that have accelerated my career,
+[00:00:13.04] and met lifelong friends.
+[00:00:14.80] Here's the full course on building a brand
+[00:00:17.36] that not just gets views,
+[00:00:18.96] but actually creates opportunities
+[00:00:21.04] and helps you get closer to your goals.
+[00:00:22.80] Quick cut in, before we begin,
+[00:00:24.48] I put together a free complimentary workbook
+[00:00:26.88] with cheat sheets, exercises, prompts, questions
+[00:00:29.68] that match with this video.
+[00:00:30.96] So you can follow along,
+[00:00:32.56] because to me, learning is behavior change.
+[00:00:35.12] And so if you watch a video
+[00:00:36.16] and you don't change your behavior,
+[00:00:37.60] then did you actually learn?
+[00:00:38.80] And so workbook below,
+[00:00:40.40] it makes the video more actionable and enjoy.
+[00:00:52.34] So what is marketing?
+[00:00:54.18] Whenever I try and explain something to people,
+[00:00:56.66] what I try and do is define terms
+[00:00:58.66] because if we're not on the same page,
+[00:01:00.74] then it makes communication a lot more difficult.
+[00:01:03.62] And so marketing to me
+[00:01:05.46] is the process of reaching and converting customers.
+[00:01:09.54] Put simply, if you can get in front of the right people
+[00:01:12.34] and convince them to buy your thing, you win.
+[00:01:15.22] Why is marketing important?
+[00:01:16.50] Because when you have more demand than supply,
+[00:01:19.54] it makes it pretty hard to lose.
+[00:01:21.30] A mental model I like to give people is,
+[00:01:23.46] imagine I tripled the amount of leads
+[00:01:25.30] coming into your business.
+[00:01:26.58] What would happen?
+[00:01:27.46] If you're a somewhat competent business owner,
+[00:01:29.70] your business would grow.
+[00:01:30.74] And so in an age where AI
+[00:01:32.26] can basically build anything,
+[00:01:34.66] it makes distribution or the ability
+[00:01:36.74] to market things more important.
+[00:01:38.82] And when you do marketing right, prospects come to you
+[00:01:42.10] and book calls talking about a problem
+[00:01:43.86] that you talked about in a post.
+[00:01:45.78] They reference things you made in posts.
+[00:01:47.78] Other founders start asking you
+[00:01:49.38] how you're getting inbound marketing.
+[00:01:50.98] Potential teammates even want to start working with you.
+[00:01:53.38] So that's step one,
+[00:01:54.26] which is understanding what marketing is.
+[00:01:56.42] Step two is understanding
+[00:01:57.62] that there are actually two different types of marketing.
+[00:01:59.94] Future demand versus current demand.
+[00:02:01.78] If I asked you,
+[00:02:02.82] hey, what's the likelihood you buy a new car
+[00:02:04.42] in the next two weeks?
+[00:02:05.78] You'd probably say, pretty low.
+[00:02:08.10] But if I said, hey,
+[00:02:08.90] what's the likelihood you buy a new car
+[00:02:10.42] in the next 10 years,
+[00:02:11.70] your answer would probably be a lot higher.
+[00:02:14.02] And so the goal of my marketing,
+[00:02:15.46] if I'm a car company,
+[00:02:16.74] is not to right hook you right away.
+[00:02:18.82] It's to increase your brand affinity
+[00:02:20.82] so that when you get in the buying window
+[00:02:22.66] and you want to buy a car,
+[00:02:24.02] you think of my brand first.
+[00:02:25.46] And so there are two types of demand,
+[00:02:26.82] current demand and future demand.
+[00:02:28.58] Current demand is the amount of customers
+[00:02:30.26] who want your product or service right now.
+[00:02:32.58] Future demand is the amount of customers
+[00:02:34.50] that will potentially want your product in the future.
+[00:02:37.14] Most marketers view marketing
+[00:02:38.90] as capturing current demand
+[00:02:40.42] because it's easy to track and measure.
+[00:02:42.10] And so they allocate all of their time,
+[00:02:44.10] energy and resources towards that.
+[00:02:45.46] And in marketing,
+[00:02:46.02] we call this direct response advertising.
+[00:02:48.18] Great marketers realize that it's a dance
+[00:02:50.18] between capturing current demand
+[00:02:51.86] and generating future demand
+[00:02:53.62] because the truth is
+[00:02:54.98] not everything that can be immediately measured matters
+[00:02:57.86] and not everything that can be measured matters.
+[00:03:00.26] Future demand is created
+[00:03:01.62] by having a brand.
+[00:03:03.30] And so there are a lot of different definitions
+[00:03:05.22] about what a brand is.
+[00:03:06.42] Some people say it's a logo.
+[00:03:08.18] Some people say it's a color.
+[00:03:09.38] Some people say it's a feeling.
+[00:03:10.90] But to me, a brand is about teaching.
+[00:03:13.54] For example, if I pointed a car
+[00:03:15.38] and I say the word car,
+[00:03:16.98] then kids will associate the vehicle car
+[00:03:19.14] with the sound car.
+[00:03:20.74] And that's what a brand is.
+[00:03:21.78] It's teaching the associations
+[00:03:23.38] you want your audience to have.
+[00:03:24.82] And so bad branding is when your audience
+[00:03:26.90] makes those associations on your behalf.
+[00:03:29.14] Good branding is when you make those associations
+[00:03:31.62] for your audience.
+[00:03:32.66] It's intentional.
+[00:03:33.54] And so a question I want you to reflect on
+[00:03:35.86] is what things do I need to be associated with
+[00:03:39.06] so that my audience,
+[00:03:40.66] when they have a problem,
+[00:03:41.78] they think of me first.
+[00:03:43.46] For me, I want people to know
+[00:03:44.74] that I am the best damn
+[00:03:46.10] social media copywriter in the space.
+[00:03:50.05] I'm a marketing strategist
+[00:03:51.41] and I have a lot of proof at a young age.
+[00:03:53.17] And so investing in me
+[00:03:54.21] is like investing in Bitcoin in 2008.
+[00:03:56.29] If you're like, okay, Jay,
+[00:03:57.41] that makes sense.
+[00:03:58.21] I understand.
+[00:03:58.93] But like, how do I actually do that tactically?
+[00:04:01.49] Well, my favorite way to create these associations
+[00:04:03.89] is through the PTL framework.
+[00:04:05.81] And so PTL stands for power, trust, and likeness.
+[00:04:08.85] Put simply, if we know that our goal
+[00:04:10.37] is to influence our audience,
+[00:04:12.05] which means to change people's behaviors,
+[00:04:14.29] then primarily people are influenced
+[00:04:16.13] by three different things.
+[00:04:17.25] Power is your ability
+[00:04:18.77] to affect change in the world.
+[00:04:20.53] And so to demonstrate power,
+[00:04:22.29] you want to show that you can do things.
+[00:04:24.77] For example, most people will like
+[00:04:26.77] record a video in front of their mansion
+[00:04:28.53] or in front of a car with a fancy watch.
+[00:04:30.61] But there's also other ways you can demonstrate power.
+[00:04:33.41] You can demonstrate your skill set,
+[00:04:35.25] your network, your audience.
+[00:04:37.49] Put simply, if you can demonstrate to your audience
+[00:04:39.73] that you have what they want,
+[00:04:41.33] then the likelihood they listen to you is higher.
+[00:04:43.41] And a side point here is that power is relative.
+[00:04:46.21] And so imagine you're in a bar.
+[00:04:47.65] The bartender has a lot of power over you
+[00:04:49.65] because they control the flow of the drinks.
+[00:04:51.57] Once they step outside the bar,
+[00:04:53.25] they lose their power.
+[00:04:54.37] If you're an investor
+[00:04:55.65] and you have a lot of startup founders pitching you,
+[00:04:57.57] you have power over them.
+[00:04:58.93] Once you step outside that room,
+[00:05:00.53] and let's say you're at your kid's soccer game,
+[00:05:02.61] you lose your power.
+[00:05:03.33] You're just a parent, right?
+[00:05:04.53] And so in your content,
+[00:05:05.49] what I want you to think about
+[00:05:06.77] is how can you show power both verbally and visually?
+[00:05:10.21] And so to demonstrate power verbally,
+[00:05:11.97] I would say something like,
+[00:05:13.09] my portfolio has generated over $250 million
+[00:05:16.13] in aggregate revenue last year.
+[00:05:17.57] To show power visually,
+[00:05:18.85] then maybe I'd record an ad
+[00:05:20.13] in front of my big headquarters.
+[00:05:21.49] And so a prompt for you to implement
+[00:05:23.73] is what do my customers want both internally,
+[00:05:26.69] their beliefs and values, and externally.
+[00:05:29.41] The T stands for trust,
+[00:05:31.01] which is belief that following your directions
+[00:05:33.65] will net a positive result.
+[00:05:35.33] Trust is belief with evidence.
+[00:05:37.73] Belief without evidence is called faith.
+[00:05:40.13] Trust is built when I tell you to do something,
+[00:05:43.09] you do it, a good result happens,
+[00:05:45.81] and then you associate that value with me.
+[00:05:48.45] For example, the reason why Martha Stewart
+[00:05:50.93] is super influential
+[00:05:52.85] is because for years,
+[00:05:54.37] she would give women step-by-step directions,
+[00:05:57.17] recipes, to bake something good,
+[00:05:59.25] the women would follow those directions
+[00:06:00.77] and they get compliments
+[00:06:01.73] from their friends, families, and neighbors
+[00:06:03.81] and then associate that value with Martha
+[00:06:06.13] so that the next time Martha's told them to do something,
+[00:06:08.53] buy my cookbook, buy my program,
+[00:06:10.53] these women would do so.
+[00:06:12.21] We typically have high trust with our parents
+[00:06:14.21] because for years we have listened to them
+[00:06:16.21] and gotten good results.
+[00:06:17.41] Eat your veggies and you'll grow.
+[00:06:19.01] Drink your milk and you'll go stronger.
+[00:06:20.77] Don't touch the fire and you won't get burned.
+[00:06:22.53] And so something that I want you to reflect on
+[00:06:24.69] in your marketing
+[00:06:25.89] is what step-by-step directions
+[00:06:28.13] can I give my audience to get positive results.
+[00:06:31.57] For example, read these 50 books on marketing
+[00:06:34.53] or use this tool to distribute your content
+[00:06:36.77] or use these hooks in your content.
+[00:06:38.85] Likeness is how similar you are to your audience.
+[00:06:42.53] And so put simply, in psychology
+[00:06:45.09] we call this the in-group effect
+[00:06:46.85] which basically means we have a higher likelihood
+[00:06:49.25] of listening to people
+[00:06:50.53] who are in the same group that we identify with.
+[00:06:53.17] And so people show favoritism and trust
+[00:06:55.41] towards people in their in-group
+[00:06:56.85] and skepticism against people who are outside of it.
+[00:06:59.33] And so you can demonstrate likeness in two ways
+[00:07:01.81] externally and internally.
+[00:07:03.01] And so externally, how do you talk?
+[00:07:05.17] What are you wearing?
+[00:07:06.45] What do you look like?
+[00:07:07.65] And then internally, what do you believe in value?
+[00:07:10.13] And so this is why whenever I'm doing marketing for a company
+[00:07:12.77] the first thing I do is get really clear on
+[00:07:15.17] who are we targeting?
+[00:07:16.29] And so if you watched my last video on copywriting
+[00:07:19.01] you'll know that the very first P
+[00:07:20.77] that we start with is people
+[00:07:22.53] because that dictates a lot of the marketing that you do.
+[00:07:25.25] So there's some things you can change like externally
+[00:07:27.65] but the majority of the time when I'm doing marketing
+[00:07:30.21] what I try and do is I focus on the internal attributes
+[00:07:33.25] that we can adjust.
+[00:07:34.45] And so the question for you to ask yourself is
+[00:07:36.61] what are the core beliefs or values that my audience has
+[00:07:40.13] that we can signal to our audience
+[00:07:42.13] to show that we value the same things?
+[00:07:44.05] And so if you want to build an influential brand
+[00:07:46.21] in 2026 and beyond
+[00:07:47.81] you want to demonstrate these three things
+[00:07:50.05] power trust and likeness
+[00:07:51.73] over and over and over again in your content.
+[00:07:54.13] A quick note here like I just want to talk about this
+[00:07:56.77] like people always say
+[00:07:58.21] oh you only need a thousand true fans to make a living online
+[00:08:01.33] and it's like sure but your thousand true fans
+[00:08:05.09] who will buy anything that you sell
+[00:08:07.25] are probably not going to be your first thousand followers.
+[00:08:10.05] In fact you'll probably have to get 10,000 followers
+[00:08:12.69] or maybe 100,000 followers
+[00:08:14.45] and nurture them and educate them into being fans.
+[00:08:17.25] And so there's typically two approaches to creating content
+[00:08:20.69] the first way is to stay super niche
+[00:08:22.77] and only talk about one thing
+[00:08:24.29] and only reach people who are interested in that thing right now.
+[00:08:27.89] The second approach is to basically be yourself
+[00:08:31.01] reach lots of people who are interested in what you're talking about
+[00:08:34.21] educate them on your interests
+[00:08:35.65] and turn them into customers.
+[00:08:37.81] And so to like give you a quick visual
+[00:08:39.97] I think about this in terms of building a skyscraper
+[00:08:42.69] versus building a city
+[00:08:44.05] and so most people will tell you like
+[00:08:45.81] oh just pick a topic and that's your niche
+[00:08:47.65] only talk about that one thing
+[00:08:49.33] and yes you can build a decent business doing that
+[00:08:52.13] but to me I think it's more durable and more fun
+[00:08:55.65] and in the long run better for your business
+[00:08:58.21] to basically not niche by topic
+[00:09:00.69] but niche by transformation
+[00:09:02.29] and what I mean by that
+[00:09:03.25] is if you take someone from A to Z
+[00:09:05.17] there's actually a lot of subtopics
+[00:09:06.85] underneath that transformation journey
+[00:09:08.77] that you can talk about
+[00:09:09.97] and so as long as it's relevant
+[00:09:11.49] in helping your audience get
+[00:09:12.61] from where they are to where they want to be
+[00:09:14.37] you can actually talk about many different things.
+[00:09:16.45] Okay why is building a brand important?
+[00:09:18.93] Well to put it in math terms or business terms
+[00:09:22.21] we all know that a business survives
+[00:09:24.13] because of one equation
+[00:09:25.49] LTV to CAC
+[00:09:27.33] which basically means
+[00:09:28.53] lifetime value to customer acquisition costs
+[00:09:31.17] basically how much does it cost to acquire a customer
+[00:09:34.21] and then how much do you make from that customer
+[00:09:36.21] in their lifetime
+[00:09:37.09] and the best businesses have a high LTV to CAC ratio
+[00:09:40.37] meaning they make a lot per customer
+[00:09:42.29] and it doesn't cost them a lot to get customers
+[00:09:44.69] and you know what increases the LTV to CAC ratio?
+[00:09:47.89] You guessed it
+[00:09:48.93] building a brand
+[00:09:49.97] on the CAC side
+[00:09:51.17] it increases the number of leads we get
+[00:09:53.49] because one piece of content
+[00:09:54.77] can reach millions of people
+[00:09:56.53] and it also increases the conversion rate of those leads
+[00:09:59.49] because they feel like they know like and trust us
+[00:10:01.81] they're already pre-sold
+[00:10:03.41] on the LTV side
+[00:10:05.09] customers are willing to pay more
+[00:10:07.17] buy more frequently
+[00:10:08.69] stay longer
+[00:10:09.81] and give you the benefit of the doubt
+[00:10:11.49] because they feel like they know you
+[00:10:13.25] and a 201 version for this
+[00:10:15.09] for my advanced business owners
+[00:10:16.77] is that building a brand
+[00:10:18.45] helps with your LTG PPE to CAC ratio
+[00:10:21.73] put simply your lifetime gross profit per employee
+[00:10:25.17] to your cost to acquire talent
+[00:10:26.93] basically it means
+[00:10:27.89] you get higher quality talent
+[00:10:29.41] you get more talent
+[00:10:30.53] who stay longer
+[00:10:31.65] and are more aligned with your values
+[00:10:33.65] okay
+[00:10:34.21] by now you understand the high level version
+[00:10:36.13] of like why building a brand matters
+[00:10:37.81] and how to do it conceptually
+[00:10:39.33] but like let's take it into a more tactical standpoint
+[00:10:42.69] and talk about how do you actually create content
+[00:10:45.01] across all these different platforms
+[00:10:46.37] because we all know
+[00:10:47.25] that the top creators are
+[00:10:48.53] both prolific in in volume and in quality
+[00:10:51.09] I want to talk to you quickly
+[00:10:52.13] about my content multiplication system
+[00:10:54.53] which is my secret sauce
+[00:10:55.81] and the thing that I've been doing behind the scenes
+[00:10:57.49] for all the top personal brands in the space
+[00:10:59.65] and if you're always wondering like
+[00:11:00.85] how are these people posting multiple times
+[00:11:03.57] on multiple platforms at such a high level
+[00:11:06.13] it's because of this content multiplication system
+[00:11:08.45] so fundamentally
+[00:11:09.57] for most of the content that I do for people
+[00:11:11.57] it all starts on Twitter or X
+[00:11:13.81] because on Twitter
+[00:11:15.09] you are not penalized
+[00:11:16.21] for the amount of times you post
+[00:11:17.49] you can post 10 plus times a day
+[00:11:19.25] and you're not penalized
+[00:11:20.21] the second reason we start on Twitter
+[00:11:21.73] is because when a tweet does well
+[00:11:24.05] we know it is the idea behind the tweet
+[00:11:26.21] because it's not any fancy visual or graphic or video
+[00:11:28.77] it's just the idea
+[00:11:29.65] and so we know that angle is validated
+[00:11:31.65] and we can then multiply that
+[00:11:33.01] and so once a tweet does well
+[00:11:34.85] we go through the process of
+[00:11:36.37] that I call the three Rs
+[00:11:38.21] which means repost
+[00:11:39.81] repurpose
+[00:11:40.69] and remix
+[00:11:41.81] and so repost
+[00:11:43.09] is when a piece of content does well
+[00:11:45.49] we like to then post it again 90 days later
+[00:11:48.29] and if you're like your audience is going to get tired of you
+[00:11:50.05] that's cheating
+[00:11:50.77] it's like no
+[00:11:51.49] because when you post the first time
+[00:11:53.41] a large majority of your audience hasn't seen it
+[00:11:55.65] and so when you post it again
+[00:11:57.09] you reach those people
+[00:11:58.37] and for the people that did see your first post
+[00:12:00.45] and then see your second post
+[00:12:02.29] well we need to be reminded
+[00:12:03.73] about the core few things
+[00:12:05.17] more than we need to be taught
+[00:12:06.21] about necessarily new things
+[00:12:07.89] and so they actually appreciate it
+[00:12:09.65] the second R is repurpose
+[00:12:11.41] and so basically if a tweet does well
+[00:12:13.49] how can we post it on Instagram
+[00:12:14.77] how can we post it on LinkedIn
+[00:12:16.21] how can we turn that into an hook for ads
+[00:12:18.45] how can we expand that
+[00:12:19.49] and turn that into a YouTube video
+[00:12:20.77] or a newsletter
+[00:12:21.73] and so I won't dive into the specifics of how to do that
+[00:12:24.13] that's probably for a separate video
+[00:12:25.89] but I think the one thing to keep in mind
+[00:12:28.13] is that it's not as easy as just like
+[00:12:30.05] taking a tweet and posting it on another platform
+[00:12:32.53] what I would encourage you to do
+[00:12:34.05] is treat every platform like a separate channel
+[00:12:36.93] and so you can take the ideal
+[00:12:38.69] or the angle behind the tweet
+[00:12:40.45] but you want to reformat it
+[00:12:42.37] for each of those channels
+[00:12:43.81] and the third R is to remix
+[00:12:45.97] and so this is one of my favorite ways
+[00:12:48.05] to engage in the content multiplication system
+[00:12:50.93] but put simply if a tweet does well
+[00:12:53.09] how can you rewrite it in many different ways
+[00:12:55.81] and so there's two ways I like to remix tweets
+[00:12:58.05] the first one is same idea different format
+[00:13:01.65] the second way is different idea same format
+[00:13:04.93] let me explain
+[00:13:05.65] if I wrote a tweet that said
+[00:13:07.57] winners get better
+[00:13:08.69] losers get bitter
+[00:13:09.65] it's like okay what's the what's the fundamental idea there
+[00:13:11.65] it's like don't MVB inspire
+[00:13:13.09] okay well I can say that same idea in a different format
+[00:13:17.01] I can say the fastest way to never get what you want
+[00:13:19.65] is to be bitter when other people are winning
+[00:13:21.73] right it's the same idea it's just said differently
+[00:13:23.49] what I can also do is take that same first template
+[00:13:26.05] X people do X
+[00:13:27.09] Y people do Y
+[00:13:28.21] and install a different idea
+[00:13:29.81] rich people focus on saving time
+[00:13:31.89] poor people focus on saving money
+[00:13:33.65] right it's a different idea but the same template
+[00:13:35.97] and so what you can do
+[00:13:37.33] if a tweet or a written post does well
+[00:13:39.73] is you can go through this like remixing checklist
+[00:13:42.53] of all the different ways you can say that post
+[00:13:44.77] you can turn one idea into 10
+[00:13:47.01] and if you're like okay jay like whoa whoa whoa that's a lot
+[00:13:49.49] how do I know what to start to remix repost and repurpose
+[00:13:52.69] well I like to use what I call a hall of fame
+[00:13:55.81] and so a hall of fame is basically where you take any post
+[00:13:58.45] that does above your average engagement or impressions level
+[00:14:02.05] and you save that to a database
+[00:14:03.73] you include a column of like what the name of the post is
+[00:14:06.37] your link to the post when it was posted by
+[00:14:09.17] and if you posted it again already
+[00:14:10.93] and so what ends up happening is you build this hall of fame
+[00:14:13.41] of your best ideas
+[00:14:14.77] and so by year five or six
+[00:14:17.17] you're basically just replaying your best hits
+[00:14:19.57] and it's kind of like being a musician or an artist
+[00:14:22.21] like when they go on tour
+[00:14:24.13] they're not playing new songs
+[00:14:25.65] they're playing their already proven song
+[00:14:29.17] and so I know that was a lot so quick recap
+[00:14:31.25] step one build a hall of fame
+[00:14:33.25] step two use the three bars
+[00:14:35.65] if you master how to generate future demand
+[00:14:38.45] the world is yours
+[00:14:39.81] but now let's talk about capturing current demand
+[00:14:42.13] aka how do you get paid today
+[00:14:43.89] organic content or future demand marketing
+[00:14:46.93] is great for generating demand in the future
+[00:14:49.89] but what you also need is to capture people right now
+[00:14:52.93] and direct response or ads
+[00:14:55.25] is where you right hook your audience right now
+[00:14:57.89] you basically talk to the people who have the problem
+[00:15:01.25] like urgently right now and want you to help them solve it
+[00:15:03.97] and so the goal of our content is to educate our audience
+[00:15:06.77] about a problem
+[00:15:07.89] and the goal of our ads
+[00:15:09.41] is to speak to the people who already have that problem
+[00:15:11.89] and let them know that we have the solution
+[00:15:13.81] and so you can kind of think of it in two circles
+[00:15:16.29] organic widens the outer circle
+[00:15:18.53] or the amount of people who are aware of you
+[00:15:20.45] and ads increases the inner circle
+[00:15:22.53] the amount of people who are then ready to buy
+[00:15:25.17] and so a pro tip for writing paid ads
+[00:15:27.89] is to focus more on the pain than the promise
+[00:15:30.93] if you can articulate someone else's problem
+[00:15:33.49] better than they can
+[00:15:34.77] they will subconsciously believe that you have the solution
+[00:15:37.65] the pain is the pitch
+[00:15:39.41] some of the best ads that I've ever written
+[00:15:41.57] is when we downloaded the sales calls of our customers
+[00:15:44.93] and transcribed it and identified the specific phrasing
+[00:15:48.45] and reasonings on why they bought
+[00:15:50.29] and then we took those phrases
+[00:15:51.89] and we said them back to new customers in our ads
+[00:15:54.85] and so if people bought because they wanted more freedom
+[00:15:57.89] or an uncapped career or more time with their kids
+[00:16:01.01] then we said that back to them in their ads
+[00:16:03.57] are you someone who wants more freedom and flexibility to travel the world
+[00:16:06.85] are you tired of being the hardest worker in your company
+[00:16:09.65] you know not getting paid for it
+[00:16:10.85] or do you feel guilty because you have to send your kids to daycare
+[00:16:13.81] and you're stuck at work
+[00:16:14.93] while they're getting raised by someone else
+[00:16:17.09] and I think a key note here for paid ads
+[00:16:19.09] hooks are like the most important thing of the ad
+[00:16:21.73] it's like 80% of how an ad performs
+[00:16:24.05] because if you have a bad hook
+[00:16:26.13] and you turn away good people
+[00:16:27.73] then they're not going to watch the rest of the ad
+[00:16:29.57] and so I want to walk you through basically
+[00:16:31.17] how I think about structuring an ad
+[00:16:33.57] with hooks, bodies and CTAs or call to action
+[00:16:36.69] and so to find winning hooks
+[00:16:38.53] I like to look in five main places
+[00:16:41.01] number one is winning hooks from your previous ads
+[00:16:44.61] number two is winning hooks from your organic content
+[00:16:47.97] number three is winning hooks from other people's ads
+[00:16:51.25] number four is winning hooks from other people's free content
+[00:16:54.61] and number five is outlier tweets
+[00:16:56.93] whenever I'm writing ads
+[00:16:57.97] I like to write five hooks per ad set
+[00:17:00.93] because what it does is it allows us to kaleidoscope
+[00:17:03.97] basically meaning we can run one ad with five different hooks
+[00:17:06.85] so five different variations
+[00:17:08.61] and identify which ad is performing better than the others
+[00:17:12.37] and then double down on that
+[00:17:13.89] and so it allows us to not have to test so many different new ads
+[00:17:17.49] because we can test all these different angles into the body
+[00:17:20.53] pro tip on hooks I've written over thousands of ads
+[00:17:24.13] over 2,600 ads for the money models launch
+[00:17:27.09] and what we found was the best hooks had two things
+[00:17:31.01] number one was a specific call out
+[00:17:33.33] and number two was scarcity
+[00:17:35.01] so for example if you're a business owner doing over $1 million a year
+[00:17:38.53] specific call out
+[00:17:39.57] then I'd love to invite you out to our headquarters scarcity
+[00:17:42.61] we only have so many workshop spots
+[00:17:44.13] for the meats there are many different ways to go about doing the meat
+[00:17:48.29] or the body of your ad
+[00:17:50.21] but fundamentally what I want you to ask yourself is
+[00:17:52.77] what are the best ways to explain something
+[00:17:54.69] like imagine you're a teacher
+[00:17:55.89] what is actually memorable to your students
+[00:17:57.97] and so it's like okay well
+[00:17:59.33] what did you remember in school
+[00:18:00.53] it's like I don't remember a ton of what I learned in school
+[00:18:02.77] but I do remember when my science teacher
+[00:18:04.45] would tell stories of him going on his first date
+[00:18:06.61] and so in your body maybe you say
+[00:18:08.37] hey I went from making $8 an hour as a brista
+[00:18:10.93] to becoming a millionaire by 24
+[00:18:12.77] here's how it's like now you have a story arc that you can play with
+[00:18:15.41] the second thing that I remember is analogies
+[00:18:17.57] and so if I said something like
+[00:18:19.01] the middlemen make most of the profit
+[00:18:21.09] Airbnb owns no homes Uber owns no cars
+[00:18:24.13] similarly in high ticket sales
+[00:18:26.29] you don't have to own the product or have an audience
+[00:18:28.69] you can sit in the middle and make an income
+[00:18:30.61] without having to have a whole business
+[00:18:32.13] and an allergy
+[00:18:32.85] the third thing that I typically remember is steps
+[00:18:35.81] basically step one step two step three
+[00:18:37.81] and so if I was writing an ad for high ticket sales
+[00:18:39.65] it'd be like okay if you hate your job
+[00:18:41.73] and you want to quit your nine to five
+[00:18:43.41] step one don't quit your nine to five
+[00:18:45.57] step two build income on the side
+[00:18:47.73] step three once you replace it
+[00:18:49.25] then consider quitting your job
+[00:18:50.77] right now you have this structure
+[00:18:52.21] that you can go about in your ads
+[00:18:53.49] the fourth thing that I typically remember
+[00:18:55.25] and maybe this is just me
+[00:18:56.77] but hard hitting sentences or maxims or quotes
+[00:19:00.21] and so if I started a hook with
+[00:19:01.81] if hard work was the only answer
+[00:19:03.33] the donkey would own the farm right
+[00:19:04.77] it's like that's kind of a memorable sentence
+[00:19:06.77] the fifth thing is whiteboard explainers
+[00:19:09.25] and so whenever my teacher would draw a diagram
+[00:19:12.13] on the whiteboard
+[00:19:13.17] for some reason that was able to like
+[00:19:15.01] stick in my mind because it was visual
+[00:19:16.77] and I could like
+[00:19:17.49] when I'm trying to remember something
+[00:19:19.01] it sticks in my brain
+[00:19:20.05] the sixth body format that we like to use
+[00:19:21.97] is podcast style ads
+[00:19:23.73] and so you know fundamentally like meta
+[00:19:26.29] like the platform
+[00:19:27.57] what they're rewarded for is having people
+[00:19:29.41] stay on the platform for longer
+[00:19:31.25] and so if your ad feels like
+[00:19:33.49] and looks like an ad
+[00:19:34.61] and it turns people away from Facebook
+[00:19:36.53] then meta is going to penalize that
+[00:19:37.89] on the other hand if your ad
+[00:19:39.73] looks and feels like organic content
+[00:19:41.81] and it feels valuable to your audience
+[00:19:43.57] and they watch the whole video
+[00:19:45.09] and then they stay on the platform
+[00:19:46.61] the meta will reward it
+[00:19:47.73] and so for example like
+[00:19:49.25] you know if I was recording an ad
+[00:19:50.53] instead of doing maybe direct to camera
+[00:19:52.37] and maybe talking to the audience
+[00:19:54.05] maybe I would turn this way
+[00:19:55.33] and pretend I'm being interviewed
+[00:19:56.61] and talk about my offer
+[00:19:57.89] or talk about my service
+[00:19:59.25] and so that way it feels more natural
+[00:20:01.81] and it doesn't feel super salesy
+[00:20:03.33] these six in the final body that we like to use
+[00:20:06.05] is what we call qualifiers
+[00:20:07.81] it's kind of similar to a callout ad
+[00:20:09.81] but basically what we're trying to do is
+[00:20:11.97] number one tell meta who we're looking for
+[00:20:13.97] and number two tell people exactly who we're looking for
+[00:20:16.45] and so maybe in an ad we might say
+[00:20:18.45] if you're a girl who owns a laptop
+[00:20:20.37] and has a wifi connection
+[00:20:21.57] and has two to three hours a week
+[00:20:23.89] you could be making between $4 to $10,000 a month
+[00:20:26.61] on the side of your job
+[00:20:27.73] for CTAs a really simple framework
+[00:20:30.05] what we want to do is be clear
+[00:20:31.73] I think the worst thing you can do
+[00:20:33.09] is give people multiple things to do
+[00:20:34.85] because that decreases the likelihood
+[00:20:36.37] that they do anything
+[00:20:37.25] and so for our CTAs
+[00:20:38.45] we like to follow a simple structure
+[00:20:40.05] who are we looking for
+[00:20:41.49] what do we want them to do
+[00:20:43.01] when do we want them to do it by
+[00:20:44.29] and how should they do it
+[00:20:45.25] if you're a woman who wants to
+[00:20:46.45] break into high ticket sales
+[00:20:47.73] then I want you to register for my free
+[00:20:49.73] zoom master class
+[00:20:50.93] this Tuesday at 8 p.m eastern time
+[00:20:52.85] and I'm going to cover
+[00:20:54.05] what this career is
+[00:20:55.41] how it works
+[00:20:56.05] and how you can get started
+[00:20:57.01] even with no experience
+[00:20:58.37] so click below and save your spot
+[00:21:00.21] and so I think a big point here
+[00:21:02.45] is if you've gotten to this part of the video
+[00:21:05.01] I think what you'll start to understand is
+[00:21:07.17] it's not about
+[00:21:08.21] oh you should only do organic content
+[00:21:09.89] or oh you should only do paid ads
+[00:21:11.41] it's actually you should explore with organic
+[00:21:13.57] you should explore the angles that are resonating
+[00:21:15.73] and then you should exploit with paid ads
+[00:21:18.05] because when you do that
+[00:21:18.93] you're able to dance between
+[00:21:20.45] capturing current demand
+[00:21:21.81] and generating future demand
+[00:21:23.49] and so if you want to dominate marketing
+[00:21:25.01] in 2027 beyond
+[00:21:26.53] you need to understand that there are two types of demand
+[00:21:29.01] current demand
+[00:21:29.89] and future demand
+[00:21:30.77] to create future demand
+[00:21:32.29] demonstrate power, trust, and likeness
+[00:21:34.21] over and over and over again in your content
+[00:21:36.13] use the content multiplication system
+[00:21:37.97] the hall of fame
+[00:21:38.85] and the three Rs
+[00:21:39.97] to become prolific
+[00:21:41.25] and test angles
+[00:21:42.45] understand that building a brand is an asset
+[00:21:44.69] that increases your LTV to CAC ratio
+[00:21:47.49] and helps you get talent
+[00:21:48.85] at a higher level
+[00:21:49.81] then
+[00:21:50.61] take the angles that have been working on organic content
+[00:21:53.49] and use them in your ads
+[00:21:54.69] to capture current demand
+[00:21:56.21] and so if you use this system
+[00:21:57.89] like this is how you win
+[00:21:59.57] you generate future demand
+[00:22:01.57] take what's working
+[00:22:02.45] and capture current demand
+[00:22:03.89] and I want to make a key point here
+[00:22:05.25] because this arbitrage opportunity
+[00:22:07.33] of being able to generate
+[00:22:08.85] millions of dollars in revenue
+[00:22:10.69] using organic content and paid ads
+[00:22:13.57] like I don't know if this will be here forever
+[00:22:15.73] like you probably have a three-year window
+[00:22:18.21] to just go super hard on organic content
+[00:22:20.61] and then super hard on paid ads
+[00:22:22.37] because like most things in life
+[00:22:24.05] arbitrage opportunities go away
+[00:22:25.89] if you're like oh my gosh Jay
+[00:22:27.25] this was a dang masterclass in marketing
+[00:22:29.73] and building a personal brand
+[00:22:31.41] well thank you
+[00:22:32.93] and if you're like hey where should I learn more
+[00:22:35.01] if you're a beginner
+[00:22:36.13] make sure that you go watch my copywriting course
+[00:22:38.29] where I break down everything I've learned
+[00:22:40.21] about copywriting
+[00:22:41.09] and if you're a big baller
+[00:22:42.21] and you want to work directly with me and my team
+[00:22:44.37] you can head on over to RevenueMediaLab.com
+[00:22:47.49] and speak with my team
+[00:22:48.53] go crush it
