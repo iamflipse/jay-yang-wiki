@@ -6,4 +6,7 @@
 - [Biography](about.md)
 - [Sources](sources/)
 
+## Collected sources
+- [X post — "I've completed the trilogy" (Oct 30 2026)](sources/x-post-2116233673766732135.md)
+
 _(Pages will be filled in as sources arrive.)_
